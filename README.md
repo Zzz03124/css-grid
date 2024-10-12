@@ -2,8 +2,7 @@
 
 .grid-container {
 
-    height: 900px;
-    display: grid;
+    display: grid; представлен в виде сетки или же таблицы
     grid-template-columns: repeat(3, minmax(150px, 300px)); 
     /* свойство repeat для повторных действий, 
     grid-template-columns определяет имена линий и размеры грид-колонок. */
